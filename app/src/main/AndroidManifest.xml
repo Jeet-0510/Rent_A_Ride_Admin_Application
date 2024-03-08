@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.VehicleRentAppAdmin"
+        tools:targetApi="31">
+        <activity
+            android:name=".AboutUs"
+            android:exported="false" />
+        <activity
+            android:name=".BookingAdmin"
+            android:exported="false" />
+        <activity
+            android:name=".ProfileAdmin"
+            android:exported="false" />
+        <activity
+            android:name=".ScooterUpdate"
+            android:exported="false" />
+        <activity
+            android:name=".ScooterDetail"
+            android:exported="false" />
+        <activity
+            android:name=".ScooterAdminView"
+            android:exported="false" />
+        <activity
+            android:name=".BicycleUpdate"
+            android:exported="false" />
+        <activity
+            android:name=".BicycleDetail"
+            android:exported="false" />
+        <activity
+            android:name=".BicycleAdminView"
+            android:exported="false" />
+        <activity
+            android:name=".BikeUpdate"
+            android:exported="false" />
+        <activity
+            android:name=".BikeDetail"
+            android:exported="false" />
+        <activity
+            android:name=".BikeAdminView"
+            android:exported="false" />
+        <activity
+            android:name=".CarUpdate"
+            android:exported="false" />
+        <activity
+            android:name=".CarDetail"
+            android:exported="false" />
+        <activity
+            android:name=".CarAdminView"
+            android:exported="false" />
+        <activity
+            android:name=".OfferAdmin"
+            android:exported="false" />
+        <activity
+            android:name=".HomeAdmin"
+            android:exported="false" />
+        <activity
+            android:name=".OTPActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="false">
+
+            <!-- <intent-filter> -->
+            <!-- <action android:name="android.intent.action.MAIN" /> -->
+
+
+            <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+            <!-- </intent-filter> -->
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

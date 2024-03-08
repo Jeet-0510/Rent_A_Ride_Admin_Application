@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "633211978693",
+    "firebase_url": "https://demo2-75c1d-default-rtdb.firebaseio.com",
+    "project_id": "demo2-75c1d",
+    "storage_bucket": "demo2-75c1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633211978693:android:1e76842cd1121d0c0541ac",
+        "android_client_info": {
+          "package_name": "com.example.demo2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633211978693-nmim4s6jff5jf8tpu4pvqk528ftm20tu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.demo2",
+            "certificate_hash": "b8b23442959a5e402e775564f50d10f5bce66394"
+          }
+        },
+        {
+          "client_id": "633211978693-bfcjrmhjck5vpupd0cua6fsat824q8mn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV_ojQCDaVm-x3yeocuvls5FdAxEB7qgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633211978693-bfcjrmhjck5vpupd0cua6fsat824q8mn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633211978693:android:397c9528e935d79a0541ac",
+        "android_client_info": {
+          "package_name": "com.example.vehiclerentadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633211978693-bfcjrmhjck5vpupd0cua6fsat824q8mn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV_ojQCDaVm-x3yeocuvls5FdAxEB7qgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633211978693-bfcjrmhjck5vpupd0cua6fsat824q8mn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633211978693:android:210da5111c8aaa640541ac",
+        "android_client_info": {
+          "package_name": "com.example.vehiclerentappadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633211978693-tnnh5rv3lkbml6pshm848jk9ltsgg63u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vehiclerentappadmin",
+            "certificate_hash": "b8b23442959a5e402e775564f50d10f5bce66394"
+          }
+        },
+        {
+          "client_id": "633211978693-bfcjrmhjck5vpupd0cua6fsat824q8mn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV_ojQCDaVm-x3yeocuvls5FdAxEB7qgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633211978693-bfcjrmhjck5vpupd0cua6fsat824q8mn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
